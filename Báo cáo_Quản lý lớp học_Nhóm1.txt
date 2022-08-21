@@ -11,6 +11,6 @@ https://github.com/huyenpham99/JavaAdvanced_TeamProject.git
 Thành viên nhóm và công việc
 Nguyễn Văn Canh: cửa sổ login - logout , cửa sổ thông tin lớp học, action
 Phạm Thị Huyền: cửa sổ thông tin sinh viên ( bao gồm cả những chức năng và data), viết báo cáo
-Trương Quốc Anh: test chương trình và góp ý cải thiện chương trình
+Trương Quốc Anh: test chương trình và cải thiện chương trình
 Lưu Tùng Lâm: tìm kiếm tài liệu
 Trịnh Đức Hưng: lên ý tưởng
